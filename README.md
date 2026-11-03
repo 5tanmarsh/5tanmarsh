@@ -4,7 +4,7 @@
 <p align="center"
 ㅤ
 
-<sub>yeah [@horroryaoi](https://github.com/horroryaoi)</sub>
+yeah [@horroryaoi](https://github.com/horroryaoi)
 ㅤ
 </p></p>ㅤ
 ㅤ
@@ -14,4 +14,4 @@
 ㅤ
 <p align="center"
 
-<sub>? ? ? [@misteria0](https://github.com/Misteria0)</sub>
+? ? ? [@misteria0](https://github.com/Misteria0)
